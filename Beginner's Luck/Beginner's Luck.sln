@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner_s_Luck", "Beginner's Luck\Beginner_s_Luck\Beginner_s_Luck.csproj", "{24D1F3CF-3E91-4F75-8CFE-5B12468110B1}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Beginner_s_LuckContent", "Beginner's Luck\Beginner_s_LuckContent\Beginner_s_LuckContent.contentproj", "{E2F6F799-E6E3-4B17-A27A-5ABD2DC8A73C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D1F3CF-3E91-4F75-8CFE-5B12468110B1}.Debug|x86.ActiveCfg = Debug|x86
+		{24D1F3CF-3E91-4F75-8CFE-5B12468110B1}.Debug|x86.Build.0 = Debug|x86
+		{24D1F3CF-3E91-4F75-8CFE-5B12468110B1}.Release|x86.ActiveCfg = Release|x86
+		{24D1F3CF-3E91-4F75-8CFE-5B12468110B1}.Release|x86.Build.0 = Release|x86
+		{E2F6F799-E6E3-4B17-A27A-5ABD2DC8A73C}.Debug|x86.ActiveCfg = Debug|x86
+		{E2F6F799-E6E3-4B17-A27A-5ABD2DC8A73C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

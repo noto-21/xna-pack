@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingWithSpeed", "MovingWithSpeed\MovingWithSpeed\MovingWithSpeed.csproj", "{8838959F-6AEE-4A75-82BE-1C06C6F62554}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MovingWithSpeedContent", "MovingWithSpeed\MovingWithSpeedContent\MovingWithSpeedContent.contentproj", "{4988F89F-21AE-4E99-9385-7FC6A2A1B282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8838959F-6AEE-4A75-82BE-1C06C6F62554}.Debug|x86.ActiveCfg = Debug|x86
+		{8838959F-6AEE-4A75-82BE-1C06C6F62554}.Debug|x86.Build.0 = Debug|x86
+		{8838959F-6AEE-4A75-82BE-1C06C6F62554}.Release|x86.ActiveCfg = Release|x86
+		{8838959F-6AEE-4A75-82BE-1C06C6F62554}.Release|x86.Build.0 = Release|x86
+		{4988F89F-21AE-4E99-9385-7FC6A2A1B282}.Debug|x86.ActiveCfg = Debug|x86
+		{4988F89F-21AE-4E99-9385-7FC6A2A1B282}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
